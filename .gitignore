@@ -1,0 +1,42 @@
+<!html doctype>
+
+<style>
+
+#main {
+	font-size: 35px;
+}
+
+header {
+	text-decoration-style: none;
+}
+
+body {
+	background-color: black;
+	color: #292929;
+	font-family: Helvetica;
+	text-align: center;
+	font-size: 100px;
+	padding-bottom: 100px;
+}
+
+li {
+	text-align: left;
+	padding-left: 32%;
+}
+
+</style>
+<header>
+	<title>garbage</title>
+</header>
+<body>
+	<a href="#"><img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Antifascist_Circle_BW.svg/1024px-Antifascist_Circle_BW.svg.png"/></a>
+	<br>
+	<a><strong>BASH</strong></a><a id="main"><br>the<br></a><a><strong>FASH</strong></a>
+	<br>
+	<div id="main"><ul>Lorem ipsum</ul> 
+		<li>dolor sit amet, consectetur adipisicing elit, sed do <br> eiusmod tempor incididunt ut labore et dolore magna aliqua.</li> 
+		<li>Ut enim ad minim veniam, quis nostrud exercitation <br>ullamco laboris nisi ut aliquip ex ea commodo consequat.</li> 
+		<li>Duis aute irure dolor in reprehenderit in voluptate velit<br> esse cillum dolore eu fugiat nulla pariatur.</li> 
+		<li>Excepteur sint occaecat cupidatat non proident, sunt in <br> culpa qui officia deserunt mollit anim id est laborum.</li>
+	</div>
+</body>
